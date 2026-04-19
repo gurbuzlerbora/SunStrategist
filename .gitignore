@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+venv/
+
+# Generated outputs
+outputs/reports/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# PyCharm
+.idea/
+
+# Environment variables
+.env
