@@ -2,3 +2,4 @@ requests==2.31.0
 fpdf2==2.7.9
 matplotlib==3.8.0
 numpy==1.26.0
+streamlit==1.32.0
