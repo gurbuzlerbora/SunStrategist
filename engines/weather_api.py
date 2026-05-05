@@ -79,7 +79,7 @@ class WeatherAPI:
             "lat"       : self.latitude,
             "lon"       : self.longitude,
             "userhorizon": "",
-            "raddatabase": "PVGIS-SARAH2",   # best dataset for Europe
+            "raddatabase": "PVGIS-ERA5",
             "peakpower" : 1,                  # 1 kWp reference system
             "loss"      : system_loss_pct,
             "mountingplace": "building",
